@@ -1,0 +1,18 @@
+/* body {
+  text-align: center;
+} */
+
+div {
+  text-align: center;
+  background-color: yellow;
+  margin: 50px;
+}
+
+#video-audio {
+  text-align: center;
+}
+
+.css-selectors {
+  text-align: end;
+  background-color: yellow;
+}
