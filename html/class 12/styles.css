@@ -1,0 +1,40 @@
+/* @font-face {
+  font-family: "Salsa", cursive, monospace;
+  src: url("fonts/chunkfive.eot");
+} */
+
+body {
+  color: rgb(255, 128, 82);
+  background-color: azure;
+  font-family: "Poppins", sans-serif, Courier, monospace;
+  font-weight: 300;
+}
+
+/*  */
+* {
+  /* color: aqua; */
+}
+
+div {
+  text-align: center;
+  background-color: yellow;
+  margin: 50px;
+}
+
+#video-audio {
+  text-align: center;
+}
+
+.css-selectors {
+  /* text-align: end; */
+  background-color: aquamarine;
+  font-family: "Salsa", cursive, monospace;
+  font-size: 20px;
+  font-style: italic;
+  text-transform: uppercase;
+  line-height: 2;
+  letter-spacing: 5px;
+  word-spacing: 10px;
+  text-indent: 10px;
+  text-shadow: -2px -2px 3px white;
+}
